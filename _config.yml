@@ -84,8 +84,16 @@ content:
         sub_title: BSc Information Systems for Business
         quote: >
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at Leeds Metropolitan University, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
+ - title: Certifications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Certified Salesforce Administrator
+      Certified Salesforce Sales Cloud Consultant
+      Certified Salesforce Service Cloud Consultant
+      Cerfitied Salesforce AI Associate
+      Certified Salesforce Business Analyst
 
   - title: A Little More About Me
     layout: text
