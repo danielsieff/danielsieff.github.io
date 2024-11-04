@@ -105,8 +105,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in solutioning some of my other interests and hobbies are:
-      - Volunteer at the Vienna Fire Department
+      - 20 year Volunteer at the Vienna Fire Department
       - Running
+      - Soccer coach and ex-certified US soccer referee
 
 # Footer
 footer_show_references: true
