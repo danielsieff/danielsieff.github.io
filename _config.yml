@@ -86,6 +86,17 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my time at Leeds Metropolitan University, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
+  - title: TEST # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Leeds Metropolitan University
+        caption: 1988 - 1992
+        sub_title: BSc Information Systems for Business
+        quote: >
+        description: | # this will include new lines to allow paragraphs
+          During my time at Leeds Metropolitan University, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
