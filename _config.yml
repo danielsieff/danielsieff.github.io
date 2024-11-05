@@ -102,20 +102,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Next Quarter
-        link: nextq.ai
-        # link_text: nextq.ai
-        sub_title: Chief Customer Success Officer
-        caption: September 2021 - September 2023
+        title: Citrix Systems
+        link: citrix.com
+        # link_text: citrix.com
+        sub_title: Executive Customer Successs Manager
+        caption: July 2020 - September 2021
         quote: >
-          Bought onto the executive team to build the global Customer Success function to drive value realization and achievement of business goals and adoption across the customer base.
+          Established Executive Customer Success function across the US to drive customer cloud transformation, value realization, and achievement of business goals and adoption across a small number of Citrix’s largest and most strategic customers.
         description: | # this will include new lines to allow paragraphs
-           - Developed and expanded the Customer Success team to five team members.
-           - Defined customer value realization model to align technology-related KPIs to customers' business goals.
-           - Developed change management and training guidelines for new customers to enable greater success.
-           - Built long-term executive relationships with key strategic customers.
-           - Deployed a CSAT survey and built metrics to measure customer satisfaction and ways to improve. 
-           - Assisted with prospecting and RFPs to increase account growth and revenue.
+           - Managed relationships with two of Citrix’s largest customers in the Healthcare and Insurance industries.
+           - Established customer value realization model to align key technology-related KPIs to customers’ business goals.
+           - Developed an extensive Success Plan to measure the impact of the Executive Customer Success function.
+           - Successfully built relationships with customer executives to align on business goals and focus Citrix resources on supporting achievement.
+           - Quickly built internal executive and account relationships to establish Executive Customer Success as a core part of the account team.
+           - Identified new sales and consulting opportunities to grow the customer footprint.
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
