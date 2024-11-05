@@ -98,7 +98,25 @@ content:
            - Built long-term executive relationships with key strategic customers.
            - Deployed a CSAT survey and built metrics to measure customer satisfaction and ways to improve. 
            - Assisted with prospecting and RFPs to increase account growth and revenue.
-
+   
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Next Quarter
+        link: nextq.ai
+        # link_text: nextq.ai
+        sub_title: Chief Customer Success Officer
+        caption: September 2021 - September 2023
+        quote: >
+          Bought onto the executive team to build the global Customer Success function to drive value realization and achievement of business goals and adoption across the customer base.
+        description: | # this will include new lines to allow paragraphs
+           - Developed and expanded the Customer Success team to five team members.
+           - Defined customer value realization model to align technology-related KPIs to customers' business goals.
+           - Developed change management and training guidelines for new customers to enable greater success.
+           - Built long-term executive relationships with key strategic customers.
+           - Deployed a CSAT survey and built metrics to measure customer satisfaction and ways to improve. 
+           - Assisted with prospecting and RFPs to increase account growth and revenue.
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
