@@ -79,8 +79,7 @@ content:
            - Requirements Gathering and User Story Development  Develop detailed user stories and acceptance criteria that define how features will work and add value to the platform
            - Salesforce Solution Design and Optimization Review and optimize existing Salesforce processes, data models, and configurations to improve efficiency, usability, and alignment with changing business needs.
            - Compliance, Security, and Governance Implement governance frameworks to maintain data integrity, user access controls, and compliance with regulatory requirements
-           - Analytics and Performance Monitoring Define and monitor key performance metrics (KPIs) for the Salesforce platform to track user adoption, system performance, and feature utilization.
-    
+           - Analytics and Performance Monitoring Define and monitor key performance metrics (KPIs) for the Salesforce platform to track user adoption, system performance, and feature utilization.   
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -97,8 +96,7 @@ content:
            - Developed change management and training guidelines for new customers to enable greater success.
            - Built long-term executive relationships with key strategic customers.
            - Deployed a CSAT survey and built metrics to measure customer satisfaction and ways to improve. 
-           - Assisted with prospecting and RFPs to increase account growth and revenue.
-   
+           - Assisted with prospecting and RFPs to increase account growth and revenue. 
     layout: list # Type of content section (list/text)
     content:
       - layout: left
