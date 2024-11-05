@@ -80,8 +80,10 @@ content:
            - Salesforce Solution Design and Optimization Review and optimize existing Salesforce processes, data models, and configurations to improve efficiency, usability, and alignment with changing business needs.
            - Compliance, Security, and Governance Implement governance frameworks to maintain data integrity, user access controls, and compliance with regulatory requirements
            - Analytics and Performance Monitoring Define and monitor key performance metrics (KPIs) for the Salesforce platform to track user adoption, system performance, and feature utilization.
-
- - layout: left
+    
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: Bloomberg Industry Group
         link: bloombergindg.com
         # link_text: bloombergindg.com
@@ -97,9 +99,6 @@ content:
            - Salesforce Solution Design and Optimization Review and optimize existing Salesforce processes, data models, and configurations to improve efficiency, usability, and alignment with changing business needs.
            - Compliance, Security, and Governance Implement governance frameworks to maintain data integrity, user access controls, and compliance with regulatory requirements
            - Analytics and Performance Monitoring Define and monitor key performance metrics (KPIs) for the Salesforce platform to track user adoption, system performance, and feature utilization.
-
-
-
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
