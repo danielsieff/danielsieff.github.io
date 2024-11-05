@@ -84,21 +84,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Bloomberg Industry Group
-        link: bloombergindg.com
-        # link_text: bloombergindg.com
-        sub_title: Lead Product Manager
-        caption: September 2023 - Present
+        title: Next Quarter
+        link: nextq.ai
+        # link_text: nextq.ai
+        sub_title: Chief Customer Success Officer
+        caption: September 2021 - September 2023
         quote: >
-          Managing the lead to cash product team, aligning strategic growth, business goals with technical solutions
+          Bought onto the executive team to build the global Customer Success function to drive value realization and achievement of business goals and adoption across the customer base.
         description: | # this will include new lines to allow paragraphs
-           - Created a cross-business product strategy and roadmap - Defined and maintained the product vision, strategy, and roadmap for Salesforce solutions, ensuring alignment with overall business goals
-           - Team Leadership and Cross-Functional Collaboration for 3 product managers, 1 business analyst and 1 analytics analyst
-           - Stakeholder Management and Communication Ensure alignment between business goals and Salesforce implementation to maximize ROI and improve user experience.
-           - Requirements Gathering and User Story Development  Develop detailed user stories and acceptance criteria that define how features will work and add value to the platform
-           - Salesforce Solution Design and Optimization Review and optimize existing Salesforce processes, data models, and configurations to improve efficiency, usability, and alignment with changing business needs.
-           - Compliance, Security, and Governance Implement governance frameworks to maintain data integrity, user access controls, and compliance with regulatory requirements
-           - Analytics and Performance Monitoring Define and monitor key performance metrics (KPIs) for the Salesforce platform to track user adoption, system performance, and feature utilization.
+           - Developed and expanded the Customer Success team to five team members.
+           - Defined customer value realization model to align technology-related KPIs to customers' business goals.
+           - Developed change management and training guidelines for new customers to enable greater success.
+           - Built long-term executive relationships with key strategic customers.
+           - Deployed a CSAT survey and built metrics to measure customer satisfaction and ways to improve. 
+           - Assisted with prospecting and RFPs to increase account growth and revenue.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
