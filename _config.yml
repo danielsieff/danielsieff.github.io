@@ -63,7 +63,6 @@ content:
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: Bloomberg Industry Group
         link: bloombergindg.com
