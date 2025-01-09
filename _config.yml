@@ -62,6 +62,7 @@ content:
           I created this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
+    
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -80,6 +81,7 @@ content:
            - Salesforce Solution Design and Optimization Review and optimize existing Salesforce processes, data models, and configurations to improve efficiency, usability, and alignment with changing business needs.
            - Compliance, Security, and Governance Implement governance frameworks to maintain data integrity, user access controls, and compliance with regulatory requirements
            - Analytics and Performance Monitoring Define and monitor key performance metrics (KPIs) for the Salesforce platform to track user adoption, system performance, and feature utilization.   
+    
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -97,6 +99,7 @@ content:
            - Built long-term executive relationships with key strategic customers.
            - Deployed a CSAT survey and built metrics to measure customer satisfaction and ways to improve. 
            - Assisted with prospecting and RFPs to increase account growth and revenue. 
+    
     layout: list # Type of content section (list/text)
     content:
       - layout: left
